@@ -21,6 +21,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.saltyspamz.xyz
   # baseUrl: /your-repo-name
+  favicon: https://saltyspamz.xyz/favicon.png
   logoUrl: https://saltyspamz.xyz/logo.png
   name: Salty Status
   introTitle: "Salty Spamz Service Status"
