@@ -4,71 +4,79 @@
     "url": "https://saltyspamz.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/saltyspamz.xyz.ico",
     "slug": "salty-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 675,
-    "timeDay": 835,
-    "timeWeek": 558,
-    "timeMonth": 590,
-    "timeYear": 675,
-    "dailyMinutesDown": {}
+    "time": 671,
+    "timeDay": 416,
+    "timeWeek": 591,
+    "timeMonth": 523,
+    "timeYear": 671,
+    "dailyMinutesDown": {
+      "2023-11-29": 1
+    }
   },
   {
     "name": "Salty Suite Website",
     "url": "https://suite.saltyspamz.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/suite.saltyspamz.xyz.ico",
     "slug": "salty-suite-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 691,
-    "timeDay": 637,
-    "timeWeek": 478,
-    "timeMonth": 493,
-    "timeYear": 691,
-    "dailyMinutesDown": {}
+    "time": 689,
+    "timeDay": 382,
+    "timeWeek": 539,
+    "timeMonth": 500,
+    "timeYear": 689,
+    "dailyMinutesDown": {
+      "2023-11-29": 1
+    }
   },
   {
     "name": "Salty Suite Account System",
     "url": "$SSUITE_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "salty-suite-account-system",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 654,
-    "timeDay": 631,
-    "timeWeek": 510,
-    "timeMonth": 566,
-    "timeYear": 654,
-    "dailyMinutesDown": {}
+    "time": 653,
+    "timeDay": 476,
+    "timeWeek": 572,
+    "timeMonth": 558,
+    "timeYear": 653,
+    "dailyMinutesDown": {
+      "2023-11-29": 0
+    }
   },
   {
     "name": "Minecraft Classic Multiplayer Server",
     "url": "$MCCLAS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft-classic-multiplayer-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 112,
-    "timeDay": 153,
-    "timeWeek": 111,
+    "timeDay": 89,
+    "timeWeek": 118,
     "timeMonth": 110,
     "timeYear": 112,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-29": 0
+    }
   }
 ]
