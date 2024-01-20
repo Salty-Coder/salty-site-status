@@ -1,7 +1,7 @@
 url: $MCCLAS_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-20T15:09:18.043Z
+status: up
+code: 404
+responseTime: 194
+lastUpdated: 2024-01-20T15:28:26.847Z
 startTime: 2023-09-06T14:36:31.293Z
 generator: Upptime <https://github.com/upptime/upptime>
