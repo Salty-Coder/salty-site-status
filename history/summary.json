@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/saltyspamz.xyz.ico",
     "slug": "salty-website",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 589,
-    "timeDay": 385,
+    "uptimeYear": "99.98%",
+    "time": 588,
+    "timeDay": 389,
     "timeWeek": 412,
     "timeMonth": 469,
-    "timeYear": 589,
+    "timeYear": 588,
     "dailyMinutesDown": {
       "2023-11-29": 59
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 598,
-    "timeDay": 380,
+    "time": 597,
+    "timeDay": 385,
     "timeWeek": 413,
     "timeMonth": 459,
-    "timeYear": 598,
+    "timeYear": 597,
     "dailyMinutesDown": {
       "2023-11-29": 59
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 612,
-    "timeDay": 387,
-    "timeWeek": 518,
-    "timeMonth": 627,
-    "timeYear": 612,
+    "time": 611,
+    "timeDay": 445,
+    "timeWeek": 512,
+    "timeMonth": 623,
+    "timeYear": 611,
     "dailyMinutesDown": {
       "2024-01-20": 19,
       "2023-11-29": 58
@@ -72,7 +72,7 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 114,
-    "timeDay": 90,
+    "timeDay": 89,
     "timeWeek": 98,
     "timeMonth": 122,
     "timeYear": 114,
